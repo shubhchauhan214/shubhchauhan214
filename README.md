@@ -5,7 +5,7 @@ I'm a software developer with a strong interest in web and mobile app developmen
 ## Skills
 - **Languages:** Python, JavaScript
 - **Frameworks:** Django, FastAPI, React Native
-- **Databases:** PostgreSQL, MySQL
+- **Databases:** PostgreSQL
 - **Tools:** Git, GitHub
 
 ## Education
