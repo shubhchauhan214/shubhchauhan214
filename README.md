@@ -3,10 +3,10 @@
 I'm a software developer with a strong interest in web and mobile app development. Currently, I'm focused on improving my skills in Python, Django, React Native, and FastAPI.
 
 ## Skills
-- **Languages:** Python, JavaScript, SQL
+- **Languages:** Python, JavaScript
 - **Frameworks:** Django, FastAPI, React Native
 - **Databases:** PostgreSQL, MySQL
-- **Tools:** Git, GitHub, Docker
+- **Tools:** Git, GitHub
 
 ## Education
 - **MCA** from AKTU (2024)
