@@ -13,7 +13,7 @@ I'm a software developer with a strong interest in web and mobile app developmen
 - **BSc in Mathematics** from University of Delhi (2017)
 
 ## Contact
-- **Email:** [chauhanshubham2014@gmail.com](mailto:chauhanshubham2014@gmail.com)
+- **Email:** [shubhchauhan616@gmail.com](mailto:shubhchauhan616@gmail.com)
 - **LinkedIn:** [linkedin.com/in/shubhchauhan214](https://linkedin.com/in/shubhchauhan214)
 
 <!---
