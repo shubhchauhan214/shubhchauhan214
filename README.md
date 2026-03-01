@@ -1,22 +1,59 @@
-## Hi there! 👋 I'm Shubham Chauhan
+## 👋 Hi, I'm Shubham Chauhan  
 
-I'm a software developer with a strong interest in web and mobile app development. Currently, I'm focused on improving my skills in Python, Django, React Native, and FastAPI.
+### Backend Developer | Python Engineer  
 
-## Skills
-- **Languages:** Python, JavaScript
-- **Frameworks:** Django, FastAPI, React Native
-- **Databases:** PostgreSQL
-- **Tools:** Git, GitHub
+I design and build scalable backend systems using Python and modern distributed architecture.  
+I focus on API development, caching strategies, background task processing, automation, and performance optimization.
 
-## Education
-- **MCA** from AKTU (2024)
-- **BSc in Mathematics** from University of Delhi (2017)
+---
 
-## Contact
-- **Email:** [shubhchauhan616@gmail.com](mailto:shubhchauhan616@gmail.com)
-- **LinkedIn:** [linkedin.com/in/shubhchauhan214](https://linkedin.com/in/shubhchauhan214)
+## 🚀 Technical Expertise  
 
-<!---
-shubhchauhan214/shubhchauhan214 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+### 💻 Programming  
+- Python  
+
+### ⚡ Backend & API Development  
+- FastAPI  
+- REST API Design  
+- Microservices Architecture  
+
+### 🗄 Databases  
+- PostgreSQL  
+- MongoDB  
+- SQL  
+
+### 🚀 Caching & Messaging Systems  
+- Redis (Caching & Cache Invalidation)  
+- RabbitMQ (Message Broker)  
+- Celery (Asynchronous Task Processing)  
+
+### 🐳 DevOps & Deployment  
+- Docker (Containerization)  
+- AWS Basics (EC2, S3)  
+- Linux Environment  
+
+### 🧪 Testing & Automation  
+- Pytest  
+- Watchdog (File Monitoring Automation)  
+- ETL Pipeline Development  
+
+### 📊 Data Tools  
+- Pandas  
+- NumPy  
+- Matplotlib  
+---
+
+## 🎯 Core Focus  
+
+- Scalable Backend Design  
+- Distributed Systems Fundamentals  
+- Automation & Reliability  
+- Performance Optimization  
+
+---
+
+## 📫 Connect With Me  
+
+- 📧 shubhchauhan616@gmail.com  
+- 🔗 https://linkedin.com/in/shubhchauhan214  
+
